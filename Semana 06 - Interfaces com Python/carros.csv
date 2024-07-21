@@ -1,0 +1,27 @@
+id,fabricante,modelo,ano
+1,Mazda,B-Series,1993
+2,Volkswagen,Passat,2008
+3,Isuzu,Trooper,1997
+4,Toyota,Sienna,2010
+5,GMC,Terrain,2011
+6,Subaru,XT,1988
+7,Ford,Mustang,1973
+8,Chrysler,Concorde,1996
+9,Mitsubishi,3000GT,1995
+10,Lexus,RX,2004
+11,Pontiac,LeMans,1990
+12,Lincoln,Zephyr,2006
+13,Buick,Roadmaster,1996
+14,Chevrolet,Malibu,2005
+15,Honda,Insight,2011
+16,Honda,Civic,2006
+17,Honda,Prelude,1986
+18,GMC,Savana 2500,2003
+19,Mercury,Grand Marquis,1984
+20,Audi,S5,2011
+21,Toyota,Camry Solara,2006
+22,Mazda,RX-7,1995
+23,Mitsubishi,Pajero,2004
+24,Subaru,Loyale,1994
+25,Chevrolet,Astro,1995
+123,JEEP,8989,2020
